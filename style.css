@@ -1,0 +1,8 @@
+
+
+input:checked + label
+ {
+    background: brown;
+    background-color: aquamarine;
+    text-decoration: line-through;
+}
